@@ -23,7 +23,7 @@
     "express"
   ],
   "author": "Abrar",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
